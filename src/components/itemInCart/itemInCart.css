@@ -1,0 +1,17 @@
+/* organized in order they appear in iic.jsk*/
+.itemInCart{
+  border: 2px dashed green;
+  margin: .5rem 1rem .5rem 1rem;
+}
+.iicFlexContainer{
+  display: flex;
+}
+.iicImage{
+  height: 30%;
+  width: 30%;
+  margin: .3rem auto auto auto;
+}
+.iicDelete button{
+  font-size: .8rem;
+  width: 35%;
+}

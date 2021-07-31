@@ -1,0 +1,12 @@
+.contactPhoto h1{
+    color: green;
+}
+
+.inputField{
+    width: 75%;
+    margin: 6rem 2rem;
+}
+
+.inputField span{
+    margin-top: 1rem;
+}

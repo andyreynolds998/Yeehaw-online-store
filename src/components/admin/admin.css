@@ -1,0 +1,45 @@
+.adminPage{
+    text-align: left;
+}
+
+.adminPage label{
+    margin: auto auto auto .2rem;
+}
+
+.adminPage button{
+    margin: .2rem auto .2rem .2rem;
+}
+
+/*inputs*/
+
+.id{
+    margin: auto auto auto 4.5rem;    
+}
+
+.price{
+    margin: auto auto auto 3.3rem;
+}
+
+.stock{
+    margin: auto auto auto 3.1rem;
+}
+
+.title{
+    margin: auto auto auto 3.5rem;
+}
+
+.description{
+    margin: auto auto auto .4rem;
+}
+
+.imageURL{
+    margin: auto auto auto .6rem;
+}
+
+.discount{
+    margin: auto auto auto 1.5rem;
+}
+
+.category{
+    margin: auto auto auto 1.4rem;
+}

@@ -1,0 +1,16 @@
+@media(min-width:375px){
+    
+}
+.item{
+    flex: 1;
+    flex-basis: 33%;
+}
+.catalogItems{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.filterButtons button{
+    margin: .5rem .5rem .5rem auto;
+}

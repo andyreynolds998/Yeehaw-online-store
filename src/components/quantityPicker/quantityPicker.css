@@ -1,0 +1,16 @@
+@media(max-width:374px){
+    .quantity-picker button{
+        width: 8%;
+        padding: 3px 3px;
+    }
+}
+.quantity-picker{
+    margin-top: 10px;
+}
+.quantity-picker button{
+    width: 8%;
+    padding: 3px 3px;
+}
+.value{
+    margin-left: 5px;
+}
